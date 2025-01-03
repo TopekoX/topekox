@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Multi Stack Engineer. I Love ❤️ Programming & Cyber Security. 
+I Love ❤️ Programming & Cyber Security. 
 
 ![banner](banner.png)
 
