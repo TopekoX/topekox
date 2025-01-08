@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I Love ❤️ Programming & Cyber Security. 
+### Hi there 👋 ❤️
 
 ![banner](banner.png)
 
